@@ -119,18 +119,18 @@
             }
         },
         {
-            "Key": "80b63401-6ccb-47d4-9062-aab0da506ef8",
-            "Value": {
-                "id": "7b5c1dd9-f4b2-43a4-acd0-578e79031f33",
-                "resourcePath": "sprites\\sprHI\\sprHI.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "8e60f604-95af-4a29-a982-2258d3d78c99",
             "Value": {
                 "id": "04c4ccd0-f62e-48ca-bee0-9a07e70ac65a",
                 "resourcePath": "sprites\\sprPennebakerTest1\\sprPennebakerTest1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "904b81d9-b47c-438e-a44b-14267d90933d",
+            "Value": {
+                "id": "70d9b9e2-a0d1-4b09-ab80-909a6b634fc4",
+                "resourcePath": "sprites\\sprite2\\sprite2.yy",
                 "resourceType": "GMSprite"
             }
         },
