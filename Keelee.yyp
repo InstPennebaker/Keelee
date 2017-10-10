@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "d904209d-d4e7-430e-8807-a51ff9a8158b",
+            "Value": {
+                "id": "b5531415-6472-4e6c-b9f4-a26f3741d6c4",
+                "resourcePath": "sprites\\sprJosieTest1\\sprJosieTest1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e43b4139-dceb-4513-948c-0e1d90d222e1",
             "Value": {
                 "id": "9443bbd7-e319-4318-a3d2-d223100b1300",
