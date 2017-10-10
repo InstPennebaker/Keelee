@@ -6,11 +6,11 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 60,
-    "bbox_left": 18,
-    "bbox_right": 59,
-    "bbox_top": 0,
-    "bboxmode": 0,
+    "bbox_bottom": 61,
+    "bbox_left": 20,
+    "bbox_right": 55,
+    "bbox_top": 2,
+    "bboxmode": 2,
     "colkind": 1,
     "coltolerance": 0,
     "frames": [
@@ -40,6 +40,13 @@
                     "mvc": "1.0",
                     "FrameId": "ed70ac8d-759e-4723-b205-5b6c20c65fbe",
                     "LayerId": "764bc5e8-2816-4229-9251-2d57129f00f1"
+                },
+                {
+                    "id": "31b244a8-74a7-4642-b510-9c90d7fb365f",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "ed70ac8d-759e-4723-b205-5b6c20c65fbe",
+                    "LayerId": "310c20ff-49f2-498e-ae8b-aab3c7683926"
                 }
             ]
         }
@@ -55,7 +62,18 @@
             "SpriteId": "f5f1a5e2-7a89-41c1-afe7-0a31c0f9d3d1",
             "blendMode": 0,
             "isLocked": false,
-            "name": "default",
+            "name": "Knight",
+            "opacity": 100,
+            "visible": true
+        },
+        {
+            "id": "310c20ff-49f2-498e-ae8b-aab3c7683926",
+            "modelName": "GMImageLayer",
+            "mvc": "1.0",
+            "SpriteId": "f5f1a5e2-7a89-41c1-afe7-0a31c0f9d3d1",
+            "blendMode": 0,
+            "isLocked": false,
+            "name": "Plume",
             "opacity": 100,
             "visible": true
         },
@@ -66,12 +84,12 @@
             "SpriteId": "f5f1a5e2-7a89-41c1-afe7-0a31c0f9d3d1",
             "blendMode": 0,
             "isLocked": false,
-            "name": "Layer 1",
+            "name": "Staff",
             "opacity": 100,
             "visible": true
         }
     ],
-    "origin": 0,
+    "origin": 9,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "sepmasks": false,
@@ -159,6 +177,6 @@
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 64,
-    "xorig": 0,
-    "yorig": 0
+    "xorig": 35,
+    "yorig": 43
 }
