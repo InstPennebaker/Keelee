@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "03af9b19-0395-4da7-bca7-53559354718b",
+            "Value": {
+                "id": "0f4a6d6c-f200-4bfb-b8f5-ac9d15f29e97",
+                "resourcePath": "objects\\objPlatform\\objPlatform.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "03eed7b4-9d48-46c7-8800-333b28f5c8df",
             "Value": {
                 "id": "7d082a0b-c0c9-4cb4-a9a4-4684f86b3bb5",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "49bbca0f-e56b-4a70-91a7-a1beeb8a7f35",
+            "Value": {
+                "id": "db5576e2-08f6-4651-98c3-6ebbbf61d8bb",
+                "resourcePath": "objects\\objPlayer\\objPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4b4f57ef-50e7-4b48-9c9f-fc227dde0a96",
             "Value": {
                 "id": "81c4282b-75aa-4453-8d7f-4aa2de148b9b",
@@ -124,6 +140,14 @@
                 "id": "555f500e-9eea-4811-b972-49c0ca7f71cf",
                 "resourcePath": "views\\6707817e-e124-4e96-bd1d-0e3bae45942b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "689eea1f-f91b-45c2-83b5-0ccb7abfd513",
+            "Value": {
+                "id": "65abd4cd-6e50-4caf-ab74-2cc9480779f1",
+                "resourcePath": "objects\\objFloor\\objFloor.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -220,6 +244,14 @@
                 "id": "4d3ae9df-95f8-425b-8692-4a1b434d0bad",
                 "resourcePath": "sprites\\sprPlatforms\\sprPlatforms.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bbf957c5-9e3c-4811-8334-4672cd8b0dd1",
+            "Value": {
+                "id": "556bfcf2-c9fa-4577-865f-1eb53b2e1991",
+                "resourcePath": "objects\\objEnemy\\objEnemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
