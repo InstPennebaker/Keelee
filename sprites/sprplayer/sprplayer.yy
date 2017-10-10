@@ -2,7 +2,7 @@
     "id": "a9c2072f-3d23-49e8-ac84-1c3f61ad688f",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprplayer",
+    "name": "sprPlayer",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -10,7 +10,7 @@
     "bbox_left": 21,
     "bbox_right": 39,
     "bbox_top": 14,
-    "bboxmode": 0,
+    "bboxmode": 2,
     "colkind": 1,
     "coltolerance": 0,
     "frames": [
