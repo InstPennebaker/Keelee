@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "e21aa972-a313-49c9-b7e6-a0f3df6dd351",
+            "Value": {
+                "id": "4930a190-5b31-4a60-ae52-2799d77d9cf5",
+                "resourcePath": "sprites\\sprFireball\\sprFireball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e43b4139-dceb-4513-948c-0e1d90d222e1",
             "Value": {
                 "id": "9443bbd7-e319-4318-a3d2-d223100b1300",
