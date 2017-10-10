@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "10670773-52ab-49a5-a24d-9b5de044d780",
+            "Value": {
+                "id": "db206082-01a2-4c5e-86a5-7f16d4286ca4",
+                "resourcePath": "sprites\\spr_blackwood\\spr_blackwood.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1df3acdc-a755-4d9f-913b-3aa1ad9ded28",
             "Value": {
                 "id": "96f9e860-807b-4fa3-9c20-f74e99c30e49",
@@ -164,6 +172,14 @@
                 "id": "70d9b9e2-a0d1-4b09-ab80-909a6b634fc4",
                 "resourcePath": "sprites\\sprite2\\sprite2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9b7c8d23-4542-4c72-b6bb-3aaf1c3ed87b",
+            "Value": {
+                "id": "8c44551e-2f70-4ae0-ae46-b4d28034c4f9",
+                "resourcePath": "tilesets\\tileBlackwood\\tileBlackwood.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
