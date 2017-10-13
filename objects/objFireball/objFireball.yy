@@ -1,8 +1,8 @@
 {
-    "id": "f96da53e-89ed-4654-9a4d-e93144e7e578",
+    "id": "2ffd5e9a-0f26-4dad-9447-695f60f2dac8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objFloor",
+    "name": "objFireball",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": true,
-    "spriteId": "384fbb1b-b190-45d1-bfe9-7c1e45ce97aa",
+    "spriteId": "e21aa972-a313-49c9-b7e6-a0f3df6dd351",
     "visible": true
 }
