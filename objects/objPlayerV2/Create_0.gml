@@ -15,3 +15,10 @@ friction = 0.4;
 /// @DnDHash : 0997083C
 /// @DnDArgument : "var" "hh"
 hh = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 6846A380
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "varRight"
+varRight = true;

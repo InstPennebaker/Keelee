@@ -10,3 +10,10 @@ hspeed = 4;
 /// @DnDHash : 0176B8AF
 image_xscale = 1;
 image_yscale = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 59847B01
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "varRight"
+varRight = true;
