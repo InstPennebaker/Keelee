@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "objFireball",
     "eventList": [
-        
+        {
+            "id": "130d1d8d-3deb-4faa-bfdc-dc37af233018",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "2ffd5e9a-0f26-4dad-9447-695f60f2dac8"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
