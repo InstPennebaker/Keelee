@@ -7,8 +7,8 @@ gravity = .7;
 /// @DnDAction : YoYo Games.Movement.Set_Friction
 /// @DnDVersion : 1
 /// @DnDHash : 21C4F623
-/// @DnDArgument : "friction" "0.2"
-friction = 0.2;
+/// @DnDArgument : "friction" "0.4"
+friction = 0.4;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
