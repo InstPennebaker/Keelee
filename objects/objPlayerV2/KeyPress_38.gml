@@ -8,9 +8,9 @@ if(hh == 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 238E543D
 	/// @DnDParent : 4B13D3BA
-	/// @DnDArgument : "speed" "-15"
+	/// @DnDArgument : "speed" "-20"
 	/// @DnDArgument : "type" "2"
-	vspeed = -15;
+	vspeed = -20;
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
