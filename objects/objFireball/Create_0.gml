@@ -2,8 +2,10 @@
 /// @DnDVersion : 1
 /// @DnDHash : 1AB995F7
 /// @DnDArgument : "x" "objPlayerV2"
+/// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "objPlayerV2"
-direction = point_direction(x, y, objPlayerV2, objPlayerV2);
+/// @DnDArgument : "y_relative" "1"
+direction = point_direction(x, y, x + objPlayerV2, y + objPlayerV2);
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
