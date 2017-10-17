@@ -28,3 +28,22 @@ varRight = true;
 /// @DnDHash : 6A3C7DB4
 /// @DnDArgument : "var" "varCooldown"
 varCooldown = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2BC4B2C2
+/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "var" "varHitPoint"
+varHitPoint = 3;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 6B537B58
+/// @DnDArgument : "var" "varInvincibility"
+varInvincibility = 0;
+
+/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 1CAD10C5
+/// @DnDArgument : "speed" "0"
+image_speed = 0;
