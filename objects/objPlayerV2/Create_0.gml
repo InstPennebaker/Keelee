@@ -22,3 +22,9 @@ hh = 0;
 /// @DnDArgument : "expr" "true"
 /// @DnDArgument : "var" "varRight"
 varRight = true;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 6A3C7DB4
+/// @DnDArgument : "var" "varCooldown"
+varCooldown = 0;
