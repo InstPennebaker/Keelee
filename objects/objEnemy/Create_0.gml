@@ -7,16 +7,9 @@ gravity = .7;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 0337681C
-/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "expr" "2"
 /// @DnDArgument : "var" "fDevilSpeed"
-fDevilSpeed = 3;
-
-/// @DnDAction : YoYo Games.Movement.Set_Speed
-/// @DnDVersion : 1
-/// @DnDHash : 35FA726A
-/// @DnDArgument : "speed" "fDevilSpeed"
-/// @DnDArgument : "type" "1"
-hspeed = fDevilSpeed;
+fDevilSpeed = 2;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -24,3 +17,10 @@ hspeed = fDevilSpeed;
 /// @DnDArgument : "expr" "5"
 /// @DnDArgument : "var" "varHitPoint"
 varHitPoint = 5;
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 04C70D76
+/// @DnDArgument : "speed" "fDevilSpeed"
+/// @DnDArgument : "type" "1"
+hspeed = fDevilSpeed;
