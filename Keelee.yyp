@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "5520061c-4921-47ae-a015-c51dca187347",
+            "Value": {
+                "id": "0b47086f-ebfd-46c7-8333-9976dc4c9567",
+                "resourcePath": "sprites\\sprPlayerAttack\\sprPlayerAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "555aa82f-8000-4e73-b0ca-79564f765dcd",
             "Value": {
                 "id": "44a5c383-90f1-45ff-8783-127c97ecb39d",
