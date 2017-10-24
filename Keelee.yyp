@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "ace986ce-2a17-4c48-bc15-acad9becf5b2",
+            "Value": {
+                "id": "13768556-9f03-4a98-a8b0-b484561ab3dd",
+                "resourcePath": "sounds\\backgroundMusic\\backgroundMusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "ae046e9d-1d53-4a3a-992c-849263c43178",
             "Value": {
                 "id": "738d998e-20b8-4fd0-9d52-2e71e2ec56a5",
@@ -388,6 +396,14 @@
                 "id": "9443bbd7-e319-4318-a3d2-d223100b1300",
                 "resourcePath": "views\\e43b4139-dceb-4513-948c-0e1d90d222e1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e630f6dd-5a80-417c-a5ef-397be3e5de37",
+            "Value": {
+                "id": "8bfdd9bd-c353-4de2-a5bb-d1e99bada7e0",
+                "resourcePath": "objects\\objLevel1\\objLevel1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
