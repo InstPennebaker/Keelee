@@ -463,6 +463,14 @@
             }
         },
         {
+            "Key": "ec8bcc00-614c-41cb-9ae5-f0583a0591f6",
+            "Value": {
+                "id": "905e734c-c38c-460a-a74d-63fb0090f104",
+                "resourcePath": "objects\\objEnemyProjectal\\objEnemyProjectal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "efdba6bd-09ed-4e60-9695-812c9a550cfc",
             "Value": {
                 "id": "9bad084b-7c40-4a40-9d83-0a548d67090e",
