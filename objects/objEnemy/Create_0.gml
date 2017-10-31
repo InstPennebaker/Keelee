@@ -24,3 +24,17 @@ varHitPoint = 5;
 /// @DnDArgument : "speed" "fDevilSpeed"
 /// @DnDArgument : "type" "1"
 hspeed = fDevilSpeed;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 6550DA4F
+/// @DnDArgument : "expr" "60"
+/// @DnDArgument : "var" "iProjectileTimer"
+iProjectileTimer = 60;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 053202B4
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "tThisEnemyXScale"
+tThisEnemyXScale = 1;
