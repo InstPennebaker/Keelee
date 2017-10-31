@@ -14,3 +14,15 @@ if(image_alpha < 1)
 	/// @DnDArgument : "alpha_relative" "1"
 	image_alpha += .05;
 }
+
+/// @DnDAction : YoYo Games.Common.Else
+/// @DnDVersion : 1
+/// @DnDHash : 6426729B
+else
+{
+	/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+	/// @DnDVersion : 1
+	/// @DnDHash : 3E578FED
+	/// @DnDParent : 6426729B
+	image_speed = 1;
+}
