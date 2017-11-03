@@ -47,9 +47,8 @@ if (l0E1E7678_0)
 /// @DnDVersion : 1
 /// @DnDHash : 637F6C41
 /// @DnDArgument : "expr" "-1"
-/// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "varCooldown"
-varCooldown += -1;
+varCooldown = -1;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
