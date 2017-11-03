@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "a9e5c200-b026-4d2b-a92d-a46caf681ea5",
+            "Value": {
+                "id": "9c5e86a5-741b-47a6-9661-b4de878b3f90",
+                "resourcePath": "rooms\\rmLvlBoom\\rmLvlBoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ac1e0d90-c4ed-48c1-86c1-d41865aaf42b",
             "Value": {
                 "id": "3031ed2a-c3de-424c-8822-e98a68b35331",
