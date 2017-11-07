@@ -80,41 +80,49 @@ iProjectileTimer += -1;
 /// @DnDArgument : "op" "3"
 if(iProjectileTimer <= 0)
 {
-	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 7336FACD
+	/// @DnDHash : 32E61204
 	/// @DnDParent : 0A8CDF98
-	/// @DnDArgument : "xpos_relative" "1"
-	/// @DnDArgument : "ypos" "-16"
-	/// @DnDArgument : "ypos_relative" "1"
-	/// @DnDArgument : "var" "tThisProjectile"
-	/// @DnDArgument : "var_temp" "1"
-	/// @DnDArgument : "objectid" "objEnemyProjectal"
-	/// @DnDArgument : "layer" ""layPlayerNEnemies""
-	/// @DnDSaveInfo : "objectid" "ec8bcc00-614c-41cb-9ae5-f0583a0591f6"
-	var tThisProjectile = instance_create_layer(x + 0, y + -16, "layPlayerNEnemies", objEnemyProjectal);
-
-	/// @DnDAction : YoYo Games.Common.Apply_To
-	/// @DnDVersion : 1
-	/// @DnDHash : 3B7E2260
-	/// @DnDApplyTo : tThisProjectile
-	/// @DnDParent : 0A8CDF98
-	with(tThisProjectile) {
-		/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+	/// @DnDArgument : "var" "bOnScreen"
+	/// @DnDArgument : "value" "true"
+	if(bOnScreen == true)
+	{
+		/// @DnDAction : YoYo Games.Instances.Create_Instance
 		/// @DnDVersion : 1
-		/// @DnDHash : 20B9D919
-		/// @DnDParent : 3B7E2260
-		/// @DnDArgument : "value" "-7 * tThisEnemyXScale"
-		/// @DnDArgument : "instvar" "3"
-		speed = -7 * tThisEnemyXScale;
+		/// @DnDHash : 7336FACD
+		/// @DnDParent : 32E61204
+		/// @DnDArgument : "xpos_relative" "1"
+		/// @DnDArgument : "ypos" "-16"
+		/// @DnDArgument : "ypos_relative" "1"
+		/// @DnDArgument : "var" "tThisProjectile"
+		/// @DnDArgument : "var_temp" "1"
+		/// @DnDArgument : "objectid" "objEnemyProjectal"
+		/// @DnDArgument : "layer" ""layPlayerNEnemies""
+		/// @DnDSaveInfo : "objectid" "ec8bcc00-614c-41cb-9ae5-f0583a0591f6"
+		var tThisProjectile = instance_create_layer(x + 0, y + -16, "layPlayerNEnemies", objEnemyProjectal);
+	
+		/// @DnDAction : YoYo Games.Common.Apply_To
+		/// @DnDVersion : 1
+		/// @DnDHash : 3B7E2260
+		/// @DnDApplyTo : tThisProjectile
+		/// @DnDParent : 32E61204
+		with(tThisProjectile) {
+			/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+			/// @DnDVersion : 1
+			/// @DnDHash : 20B9D919
+			/// @DnDParent : 3B7E2260
+			/// @DnDArgument : "value" "-7 * tThisEnemyXScale"
+			/// @DnDArgument : "instvar" "3"
+			speed = -7 * tThisEnemyXScale;
+		}
+	
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 26AFF7F4
+		/// @DnDParent : 32E61204
+		/// @DnDArgument : "expr" "60"
+		/// @DnDArgument : "var" "iProjectileTimer"
+		iProjectileTimer = 60;
 	}
-
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 26AFF7F4
-	/// @DnDParent : 0A8CDF98
-	/// @DnDArgument : "expr" "60"
-	/// @DnDArgument : "expr_relative" "1"
-	/// @DnDArgument : "var" "iProjectileTimer"
-	iProjectileTimer += 60;
 }
