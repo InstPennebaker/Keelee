@@ -38,3 +38,10 @@ iProjectileTimer = 60;
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "tThisEnemyXScale"
 tThisEnemyXScale = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 164BF4F2
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "bOnScreen"
+bOnScreen = true;
