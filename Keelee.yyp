@@ -130,7 +130,7 @@
             "Key": "4392bbdb-f2af-4d19-ba3d-6904227eb489",
             "Value": {
                 "id": "4ab7cb37-1e84-4179-a064-3483a5333b10",
-                "resourcePath": "objects\\willow\\willow.yy",
+                "resourcePath": "objects\\objTree\\objTree.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -562,7 +562,7 @@
             "Key": "fd39ebf3-0976-49c6-b046-f89ad91da621",
             "Value": {
                 "id": "aea5fb01-89c3-40ed-9515-ac17ceb1907f",
-                "resourcePath": "sprites\\sprite21\\sprite21.yy",
+                "resourcePath": "sprites\\sprTree\\sprTree.yy",
                 "resourceType": "GMSprite"
             }
         }
