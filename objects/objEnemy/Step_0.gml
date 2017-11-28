@@ -115,6 +115,14 @@ if(iProjectileTimer <= 0)
 			/// @DnDArgument : "value" "-7 * tThisEnemyXScale"
 			/// @DnDArgument : "instvar" "3"
 			speed = -7 * tThisEnemyXScale;
+		
+			/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
+			/// @DnDVersion : 1
+			/// @DnDHash : 4446D55D
+			/// @DnDParent : 3B7E2260
+			/// @DnDArgument : "value" " tThisEnemyXScale"
+			/// @DnDArgument : "instvar" "15"
+			image_xscale =  tThisEnemyXScale;
 		}
 	
 		/// @DnDAction : YoYo Games.Common.Variable
