@@ -20,9 +20,9 @@ if(l5F119612_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 2BFC0C8B
 	/// @DnDParent : 5F119612
-	/// @DnDArgument : "speed" "16"
+	/// @DnDArgument : "speed" "10"
 	/// @DnDArgument : "type" "1"
-	hspeed = 16;
+	hspeed = 10;
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
@@ -50,9 +50,9 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 4E111CD2
 	/// @DnDParent : 66FC4C0E
-	/// @DnDArgument : "speed" "-16"
+	/// @DnDArgument : "speed" "-10"
 	/// @DnDArgument : "type" "1"
-	hspeed = -16;
+	hspeed = -10;
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1

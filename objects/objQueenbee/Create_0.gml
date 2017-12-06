@@ -11,3 +11,10 @@ hp = 20;
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "bOnScreenQueen"
 bOnScreenQueen = false;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1EFF9F93
+/// @DnDArgument : "expr" "15"
+/// @DnDArgument : "var" "spd"
+spd = 15;

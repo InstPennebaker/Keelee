@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "413ae1c4-89a7-4b4f-a6ab-d23fadef5c6f",
+            "Value": {
+                "id": "f274a3f5-370a-4363-8878-fc4735c6cba5",
+                "resourcePath": "objects\\objQueenbeeSpawn\\objQueenbeeSpawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "43592b09-d724-4ed5-8bff-5c7b4541c05c",
             "Value": {
                 "id": "4c283812-b36e-4e12-9d80-d8146ef32461",
@@ -599,14 +607,6 @@
             }
         },
         {
-            "Key": "f5f1a5e2-7a89-41c1-afe7-0a31c0f9d3d1",
-            "Value": {
-                "id": "bd444c26-1d4e-42b0-b726-36c3738d9c90",
-                "resourcePath": "sprites\\sprPlayerV2\\sprPlayerV2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f92407f0-751f-44a3-8be1-7b0e5d39c02e",
             "Value": {
                 "id": "56ab1500-ae73-4e2d-b090-714dd251e54a",
@@ -620,14 +620,6 @@
                 "id": "4d2a0960-3368-48a8-8344-eb0629dfe575",
                 "resourcePath": "objects\\objFloorLeftSide\\objFloorLeftSide.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "fa6b095b-b465-4ccd-90b0-4bcea7820ec4",
-            "Value": {
-                "id": "a6cfc7cc-d2ab-4505-985e-3c5fdd4b13aa",
-                "resourcePath": "sprites\\sprite22\\sprite22.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
