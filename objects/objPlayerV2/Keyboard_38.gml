@@ -27,5 +27,13 @@ if(varInvincibility <= 0)
 		/// @DnDArgument : "expr" "1"
 		/// @DnDArgument : "var" "hh"
 		hh = 1;
+	
+		/// @DnDAction : YoYo Games.Audio.Play_Audio
+		/// @DnDVersion : 1
+		/// @DnDHash : 663AF2C4
+		/// @DnDParent : 4B13D3BA
+		/// @DnDArgument : "soundid" "snd_jumping"
+		/// @DnDSaveInfo : "soundid" "2c726ee6-03e8-4049-a48a-868f2ff16cbe"
+		audio_play_sound(snd_jumping, 0, 0);
 	}
 }

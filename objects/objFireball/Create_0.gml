@@ -36,9 +36,9 @@ if(l5F119612_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 78DA5BE1
 	/// @DnDParent : 5F119612
-	/// @DnDArgument : "soundid" "sndShoot"
-	/// @DnDSaveInfo : "soundid" "efdba6bd-09ed-4e60-9695-812c9a550cfc"
-	audio_play_sound(sndShoot, 0, 0);
+	/// @DnDArgument : "soundid" "snd_laser"
+	/// @DnDSaveInfo : "soundid" "d9082c40-5e83-4c19-b0f2-5c8e960b2cfa"
+	audio_play_sound(snd_laser, 0, 0);
 }
 
 /// @DnDAction : YoYo Games.Common.Else

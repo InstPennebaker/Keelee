@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "2c726ee6-03e8-4049-a48a-868f2ff16cbe",
+            "Value": {
+                "id": "465179c8-d298-4b67-9346-23aac6b2fc19",
+                "resourcePath": "sounds\\snd_jumping\\snd_jumping.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2ffd5e9a-0f26-4dad-9447-695f60f2dac8",
             "Value": {
                 "id": "7289ca9a-275f-44e5-92c2-72b50f4e9f9f",
@@ -471,6 +479,14 @@
             }
         },
         {
+            "Key": "c34d1cb3-9b49-4a0e-a276-52f09335c054",
+            "Value": {
+                "id": "caa281c4-1a72-4cb2-9e8f-9a9e3a2cf2cb",
+                "resourcePath": "sounds\\snd_enemyshooting\\snd_enemyshooting.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "b96bb72d-d8ca-4611-a361-540995931236",
@@ -500,6 +516,14 @@
                 "id": "b5531415-6472-4e6c-b9f4-a26f3741d6c4",
                 "resourcePath": "sprites\\sprJosieTest1\\sprJosieTest1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d9082c40-5e83-4c19-b0f2-5c8e960b2cfa",
+            "Value": {
+                "id": "7d8d4680-8c48-42a0-8b5a-6723b8280f09",
+                "resourcePath": "sounds\\snd_laser\\snd_laser.yy",
+                "resourceType": "GMSound"
             }
         },
         {
