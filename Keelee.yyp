@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "2045a3d8-9c51-420d-87d4-21038bc3dd9e",
+            "Value": {
+                "id": "f333da08-418f-48bc-a52f-8ba37f76fac9",
+                "resourcePath": "sounds\\snd_backgroundmusic\\snd_backgroundmusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "23588c1b-1370-4df5-9646-efe4a00860ec",
             "Value": {
                 "id": "5640db2a-0c51-4201-9a68-bb064adc989d",
@@ -100,6 +108,14 @@
                 "id": "9c7cb3d3-6595-4e14-8334-4098765c018d",
                 "resourcePath": "rooms\\rmEndScreen\\rmEndScreen.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2ace461f-07d2-486c-ac2d-86ba762cafc4",
+            "Value": {
+                "id": "f37136d1-e215-411c-b802-e333ad972aa7",
+                "resourcePath": "sounds\\snd_powerup\\snd_powerup.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -183,6 +199,14 @@
             }
         },
         {
+            "Key": "55044ad5-b562-4507-ba68-5e5e1b10f62b",
+            "Value": {
+                "id": "c80fbb9b-937b-410e-99ee-057c879c26c9",
+                "resourcePath": "sounds\\snd_queenbee\\snd_queenbee.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5520061c-4921-47ae-a015-c51dca187347",
             "Value": {
                 "id": "0b47086f-ebfd-46c7-8333-9976dc4c9567",
@@ -220,6 +244,22 @@
                 "id": "a7e3ce12-bdb1-4d8e-b4c9-03fb6b70fc76",
                 "resourcePath": "objects\\objQueenbee\\objQueenbee.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6550d98f-2a42-427c-9768-bb7489501394",
+            "Value": {
+                "id": "95975fb4-dbd9-4a2b-8f88-a8958898d0d0",
+                "resourcePath": "sounds\\snd_keelee\\snd_keelee.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "65d3d510-7672-4e22-b7e3-d24e72d3ba85",
+            "Value": {
+                "id": "3bf3589d-0683-49a6-a65d-33eff6e3a794",
+                "resourcePath": "sounds\\snd_titlemusic\\snd_titlemusic.yy",
+                "resourceType": "GMSound"
             }
         },
         {
