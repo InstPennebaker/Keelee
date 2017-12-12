@@ -16,9 +16,9 @@ if(varInvincibility <= 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 070F55E6
 	/// @DnDParent : 7F0B673E
-	/// @DnDArgument : "speed" "4"
+	/// @DnDArgument : "speed" "6"
 	/// @DnDArgument : "type" "1"
-	hspeed = 4;
+	hspeed = 6;
 
 	/// @DnDAction : YoYo Games.Instances.Sprite_Scale
 	/// @DnDVersion : 1
