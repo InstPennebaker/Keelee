@@ -215,14 +215,6 @@
             }
         },
         {
-            "Key": "4baf00d9-0d54-4c26-86a6-954f3ab97ef5",
-            "Value": {
-                "id": "f4f0b73e-99c0-4df1-99cb-1d9c37584ea1",
-                "resourcePath": "objects\\objnextscreen\\objnextscreen.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "50083ae4-2eac-47e4-8759-e51a1f80bd2d",
             "Value": {
                 "id": "01ecedd9-2073-4d3e-b711-f142e04aed3b",
