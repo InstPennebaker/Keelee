@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "9028ca13-3bc8-4c69-8c8b-83600f5a3064",
+            "Value": {
+                "id": "a56dce82-ee82-4814-b41e-2912f8d9355e",
+                "resourcePath": "sounds\\snd_bossbattle\\snd_bossbattle.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "904b81d9-b47c-438e-a44b-14267d90933d",
             "Value": {
                 "id": "70d9b9e2-a0d1-4b09-ab80-909a6b634fc4",

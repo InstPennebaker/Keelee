@@ -84,3 +84,10 @@ speed = 0;
 /// @DnDHash : 33EED196
 /// @DnDArgument : "steps" "90"
 alarm_set(0, 90);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 66DAE487
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "bBossMusicStarted"
+bBossMusicStarted = false;
