@@ -78,4 +78,12 @@ if(hp <= 0)
 	/// @DnDArgument : "room" "rmWinScreen"
 	/// @DnDSaveInfo : "room" "14145b56-8e64-468c-92bf-23136ad6fe3e"
 	room_goto(rmWinScreen);
+
+	/// @DnDAction : YoYo Games.Audio.Stop_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 7EDEBE05
+	/// @DnDParent : 734C15B3
+	/// @DnDArgument : "soundid" "snd_bossbattle"
+	/// @DnDSaveInfo : "soundid" "9028ca13-3bc8-4c69-8c8b-83600f5a3064"
+	audio_stop_sound(snd_bossbattle);
 }

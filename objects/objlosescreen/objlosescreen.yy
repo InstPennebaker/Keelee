@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "objlosescreen",
     "eventList": [
-        
+        {
+            "id": "1116b354-a188-4aee-a041-d5196b3b6aea",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "274c5243-b41b-45dc-98b6-e4596964e064"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
