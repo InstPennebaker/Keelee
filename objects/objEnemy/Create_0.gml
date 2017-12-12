@@ -14,9 +14,9 @@ fDevilSpeed = 2;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 2DAB873E
-/// @DnDArgument : "expr" "5"
+/// @DnDArgument : "expr" "10"
 /// @DnDArgument : "var" "varHitPoint"
-varHitPoint = 5;
+varHitPoint = 10;
 
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
