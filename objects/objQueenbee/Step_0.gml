@@ -41,7 +41,7 @@ if(hp <= 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 02C554D1
 	/// @DnDParent : 734C15B3
-	/// @DnDArgument : "room" "winscreen"
-	/// @DnDSaveInfo : "room" "09863706-06dc-4b4d-855f-f560a8106247"
-	room_goto(winscreen);
+	/// @DnDArgument : "room" "rmWinScreen"
+	/// @DnDSaveInfo : "room" "14145b56-8e64-468c-92bf-23136ad6fe3e"
+	room_goto(rmWinScreen);
 }

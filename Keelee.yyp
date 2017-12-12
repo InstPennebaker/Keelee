@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "09863706-06dc-4b4d-855f-f560a8106247",
-            "Value": {
-                "id": "8c23a389-f171-411c-b029-49bb1eb53919",
-                "resourcePath": "rooms\\winscreen\\winscreen.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "0ec8b028-3966-4cde-8b89-42c0650c932a",
             "Value": {
                 "id": "a1af63bc-0b78-49eb-93bc-db58b9ee208e",
@@ -84,6 +76,14 @@
                 "id": "db206082-01a2-4c5e-86a5-7f16d4286ca4",
                 "resourcePath": "sprites\\spr_blackwood\\spr_blackwood.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "14145b56-8e64-468c-92bf-23136ad6fe3e",
+            "Value": {
+                "id": "62e4cd31-11c8-4ecc-8ab7-403fd9a89111",
+                "resourcePath": "rooms\\rmWinScreen\\rmWinScreen.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
