@@ -2,8 +2,9 @@
 /// @DnDVersion : 1
 /// @DnDHash : 23E9430A
 /// @DnDArgument : "soundid" "snd_titlemusic"
+/// @DnDArgument : "loop" "1"
 /// @DnDSaveInfo : "soundid" "65d3d510-7672-4e22-b7e3-d24e72d3ba85"
-audio_play_sound(snd_titlemusic, 0, 0);
+audio_play_sound(snd_titlemusic, 0, 1);
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 /// @DnDVersion : 1
