@@ -39,9 +39,9 @@ varCooldown = 0;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 2BC4B2C2
-/// @DnDArgument : "expr" "3"
+/// @DnDArgument : "expr" "25"
 /// @DnDArgument : "var" "varHitPoint"
-varHitPoint = 3;
+varHitPoint = 25;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
