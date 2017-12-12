@@ -32,5 +32,6 @@ if(varInvincibility <= 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 44D20548
 	/// @DnDParent : 74139367
-	image_speed = 1;
+	/// @DnDArgument : "speed" "10"
+	image_speed = 10;
 }
