@@ -37,9 +37,11 @@ if(bOnScreenQueen == true)
 /// @DnDArgument : "op" "3"
 if(hp <= 0)
 {
-	/// @DnDAction : YoYo Games.Rooms.Next_Room
+	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
-	/// @DnDHash : 21D2FB01
+	/// @DnDHash : 02C554D1
 	/// @DnDParent : 734C15B3
-	room_goto_next();
+	/// @DnDArgument : "room" "winscreen"
+	/// @DnDSaveInfo : "room" "09863706-06dc-4b4d-855f-f560a8106247"
+	room_goto(winscreen);
 }

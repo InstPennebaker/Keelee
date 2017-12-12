@@ -1,19 +1,10 @@
 {
-    "id": "c998e198-fa5d-4a29-bba6-542467c5e4c9",
+    "id": "274c5243-b41b-45dc-98b6-e4596964e064",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object17",
+    "name": "objlosescreen",
     "eventList": [
-        {
-            "id": "8e1fd13f-3de4-425a-b13c-e7cdcca1d2c2",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 9,
-            "m_owner": "c998e198-fa5d-4a29-bba6-542467c5e4c9"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "cf4f9391-25d3-45b6-a1b2-9abec024a448",
     "visible": true
 }
