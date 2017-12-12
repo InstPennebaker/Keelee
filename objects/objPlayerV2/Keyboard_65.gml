@@ -27,4 +27,11 @@ if(varInvincibility <= 0)
 	/// @DnDArgument : "xscale" "-1"
 	image_xscale = -1;
 	image_yscale = 1;
+
+	/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+	/// @DnDVersion : 1
+	/// @DnDHash : 44D20548
+	/// @DnDParent : 74139367
+	/// @DnDArgument : "speed" "10"
+	image_speed = 10;
 }

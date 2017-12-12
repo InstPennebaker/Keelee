@@ -73,5 +73,11 @@ else
 		/// @DnDHash : 1508641E
 		/// @DnDParent : 6D473E43
 		draw_self();
+	
+		/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+		/// @DnDVersion : 1
+		/// @DnDHash : 2369D897
+		/// @DnDParent : 6D473E43
+		image_speed = 1;
 	}
 }
