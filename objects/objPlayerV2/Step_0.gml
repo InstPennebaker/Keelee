@@ -82,8 +82,8 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 47284696
 	/// @DnDParent : 4C205B0B
-	/// @DnDArgument : "speed" "0"
-	image_speed = 0;
+	/// @DnDArgument : "speed" "15"
+	image_speed = 15;
 
 	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1

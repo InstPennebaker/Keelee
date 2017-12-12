@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 1C3727E3
+/// @DnDArgument : "soundid" "snd_keelee"
+/// @DnDSaveInfo : "soundid" "6550d98f-2a42-427c-9768-bb7489501394"
+audio_play_sound(snd_keelee, 0, 0);
+
 /// @DnDAction : YoYo Games.Movement.Set_Gravity_Force
 /// @DnDVersion : 1
 /// @DnDHash : 10133F95
@@ -45,5 +52,4 @@ varInvincibility = 0;
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 1CAD10C5
-/// @DnDArgument : "speed" "0"
-image_speed = 0;
+image_speed = 1;
