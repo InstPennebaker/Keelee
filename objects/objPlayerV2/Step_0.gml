@@ -107,6 +107,14 @@ if(varHitPoint <= 0)
 	/// @DnDHash : 4446D69B
 	/// @DnDParent : 4A1BCC64
 	/// @DnDArgument : "room" "losescreen"
-	/// @DnDSaveInfo : "room" "2e3cea8c-4154-429d-af5d-c272b9be2cd4"
+	/// @DnDSaveInfo : "room" "c1d0f74a-d052-4a94-95fe-367dbd681e0b"
 	room_goto(losescreen);
+
+	/// @DnDAction : YoYo Games.Audio.Stop_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 26BBB5DB
+	/// @DnDParent : 4A1BCC64
+	/// @DnDArgument : "soundid" "snd_bossbattle"
+	/// @DnDSaveInfo : "soundid" "9028ca13-3bc8-4c69-8c8b-83600f5a3064"
+	audio_stop_sound(snd_bossbattle);
 }
