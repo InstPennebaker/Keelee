@@ -47,6 +47,22 @@
             }
         },
         {
+            "Key": "06c0075c-203c-414a-87f4-7de87b356a53",
+            "Value": {
+                "id": "2ba3e60c-ac8f-4007-ab26-52346979b745",
+                "resourcePath": "sprites\\sprite25\\sprite25.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "08c20a56-0693-4f38-b47f-e1ec0322a042",
+            "Value": {
+                "id": "75e79f59-c206-4317-888a-0ad1fdb727d9",
+                "resourcePath": "objects\\objwin\\objwin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ec8b028-3966-4cde-8b89-42c0650c932a",
             "Value": {
                 "id": "a1af63bc-0b78-49eb-93bc-db58b9ee208e",
@@ -60,6 +76,14 @@
                 "id": "db206082-01a2-4c5e-86a5-7f16d4286ca4",
                 "resourcePath": "sprites\\spr_blackwood\\spr_blackwood.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "14145b56-8e64-468c-92bf-23136ad6fe3e",
+            "Value": {
+                "id": "62e4cd31-11c8-4ecc-8ab7-403fd9a89111",
+                "resourcePath": "rooms\\rmWinScreen\\rmWinScreen.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -108,6 +132,14 @@
                 "id": "9c7cb3d3-6595-4e14-8334-4098765c018d",
                 "resourcePath": "rooms\\rmEndScreen\\rmEndScreen.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "274c5243-b41b-45dc-98b6-e4596964e064",
+            "Value": {
+                "id": "4e85994a-aa18-45e3-8483-106dd314f210",
+                "resourcePath": "objects\\objlosescreen\\objlosescreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -180,6 +212,14 @@
                 "id": "81c4282b-75aa-4453-8d7f-4aa2de148b9b",
                 "resourcePath": "sprites\\spr_funny\\spr_funny.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4baf00d9-0d54-4c26-86a6-954f3ab97ef5",
+            "Value": {
+                "id": "f4f0b73e-99c0-4df1-99cb-1d9c37584ea1",
+                "resourcePath": "objects\\objnextscreen\\objnextscreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -527,6 +567,14 @@
             }
         },
         {
+            "Key": "c1d0f74a-d052-4a94-95fe-367dbd681e0b",
+            "Value": {
+                "id": "f5cb32e8-aad0-41ec-8946-91956378f744",
+                "resourcePath": "rooms\\losescreen\\losescreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c34d1cb3-9b49-4a0e-a276-52f09335c054",
             "Value": {
                 "id": "caa281c4-1a72-4cb2-9e8f-9a9e3a2cf2cb",
@@ -540,6 +588,14 @@
                 "id": "b96bb72d-d8ca-4611-a361-540995931236",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cf4f9391-25d3-45b6-a1b2-9abec024a448",
+            "Value": {
+                "id": "9ef18240-1256-4fe4-bbde-b80d5beb68f5",
+                "resourcePath": "sprites\\sprite26\\sprite26.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

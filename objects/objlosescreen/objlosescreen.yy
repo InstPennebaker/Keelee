@@ -1,8 +1,8 @@
 {
-    "id": "fc6d08a9-30de-4843-9d58-5df440baaf6c",
+    "id": "274c5243-b41b-45dc-98b6-e4596964e064",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objWinScreen",
+    "name": "objlosescreen",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "19da9a98-3b40-461d-906a-1e9457a2d3a9",
+    "spriteId": "cf4f9391-25d3-45b6-a1b2-9abec024a448",
     "visible": true
 }
