@@ -102,9 +102,11 @@ else
 /// @DnDArgument : "op" "3"
 if(varHitPoint <= 0)
 {
-	/// @DnDAction : YoYo Games.Game.Restart_Game
+	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
-	/// @DnDHash : 31ADA9A9
+	/// @DnDHash : 4446D69B
 	/// @DnDParent : 4A1BCC64
-	game_restart();
+	/// @DnDArgument : "room" "losescreen"
+	/// @DnDSaveInfo : "room" "2e3cea8c-4154-429d-af5d-c272b9be2cd4"
+	room_goto(losescreen);
 }
