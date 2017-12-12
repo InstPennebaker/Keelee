@@ -6,10 +6,10 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 59,
-    "bbox_left": 18,
-    "bbox_right": 52,
-    "bbox_top": 10,
+    "bbox_bottom": 87,
+    "bbox_left": 24,
+    "bbox_right": 80,
+    "bbox_top": 19,
     "bboxmode": 2,
     "colkind": 1,
     "coltolerance": 0,
@@ -2503,7 +2503,7 @@
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 64,
+    "height": 96,
     "layers": [
         {
             "__type": "GMImageFolderLayer_Model:#YoYoStudio.MVCFormat",
@@ -2696,7 +2696,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 64,
-    "xorig": 37,
-    "yorig": 58
+    "width": 96,
+    "xorig": 54,
+    "yorig": 88
 }
