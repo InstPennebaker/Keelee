@@ -8447,8 +8447,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_7C685B8D",
-                    "x": -1248,
-                    "y": -32,
+                    "x": -1120,
+                    "y": 0,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -8459,8 +8459,8 @@
                     "name_with_no_file_rename": "inst_7C685B8D",
                     "objId": "e919a364-e4f9-40d8-a34e-1d299a06f523",
                     "rotation": 0,
-                    "scaleX": 10.7132759,
-                    "scaleY": 1.315271
+                    "scaleX": 10.7699118,
+                    "scaleY": 1.26272583
                 },
                 {
                     "id": "011c8ab2-3151-4e1b-8913-68e6e26be51d",
@@ -8519,8 +8519,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_D101A74",
-                    "x": 10688,
-                    "y": 0,
+                    "x": 10880,
+                    "y": 224,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
