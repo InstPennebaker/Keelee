@@ -102,6 +102,14 @@ if(iProjectileTimer <= 0)
 		/// @DnDSaveInfo : "objectid" "ec8bcc00-614c-41cb-9ae5-f0583a0591f6"
 		var tThisProjectile = instance_create_layer(x + 0, y + -16, "layPlayerNEnemies", objEnemyProjectal);
 	
+		/// @DnDAction : YoYo Games.Audio.Play_Audio
+		/// @DnDVersion : 1
+		/// @DnDHash : 7CF9D72A
+		/// @DnDParent : 32E61204
+		/// @DnDArgument : "soundid" "snd_enemyshooting"
+		/// @DnDSaveInfo : "soundid" "c34d1cb3-9b49-4a0e-a276-52f09335c054"
+		audio_play_sound(snd_enemyshooting, 0, 0);
+	
 		/// @DnDAction : YoYo Games.Common.Apply_To
 		/// @DnDVersion : 1
 		/// @DnDHash : 3B7E2260

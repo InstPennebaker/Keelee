@@ -89,9 +89,9 @@ else
 	/// @DnDVersion : 1
 	/// @DnDHash : 695735CC
 	/// @DnDParent : 4C205B0B
-	/// @DnDArgument : "spriteind" "sprPlayerV2"
-	/// @DnDSaveInfo : "spriteind" "f5f1a5e2-7a89-41c1-afe7-0a31c0f9d3d1"
-	sprite_index = sprPlayerV2;
+	/// @DnDArgument : "spriteind" "sprKeelee"
+	/// @DnDSaveInfo : "spriteind" "a146442d-0d03-40bf-81e7-95258e53dfdc"
+	sprite_index = sprKeelee;
 	image_index = 0;
 }
 
