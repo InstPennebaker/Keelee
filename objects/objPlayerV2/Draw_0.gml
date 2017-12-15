@@ -1,3 +1,21 @@
+/// @DnDAction : YoYo Games.Drawing.Draw_Healthbar
+/// @DnDVersion : 1
+/// @DnDHash : 4F342C97
+/// @DnDArgument : "x1" "-20"
+/// @DnDArgument : "x1_relative" "1"
+/// @DnDArgument : "y1" "-110"
+/// @DnDArgument : "y1_relative" "1"
+/// @DnDArgument : "x2" "20"
+/// @DnDArgument : "x2_relative" "1"
+/// @DnDArgument : "y2" "-100"
+/// @DnDArgument : "y2_relative" "1"
+/// @DnDArgument : "value" "varHitPoint * 20"
+/// @DnDArgument : "backcol" "$FF000000"
+/// @DnDArgument : "barcol" "$FF000000"
+/// @DnDArgument : "mincol" "$FF0000FF"
+/// @DnDArgument : "maxcol" "$FF00FF00"
+draw_healthbar(x + -20, y + -110, x + 20, y + -100, varHitPoint * 20, $FF000000 & $FFFFFF, $FF0000FF & $FFFFFF, $FF00FF00 & $FFFFFF, 0, (($FF000000>>24) != 0), (($FF000000>>24) != 0));
+
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 4682A708
