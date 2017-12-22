@@ -44,8 +44,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_129DE787",
-                    "x": 352,
-                    "y": 288,
+                    "x": 512,
+                    "y": 352,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -56,8 +56,8 @@
                     "name_with_no_file_rename": "inst_129DE787",
                     "objId": "08c20a56-0693-4f38-b47f-e1ec0322a042",
                     "rotation": 0,
-                    "scaleX": 1,
-                    "scaleY": 1
+                    "scaleX": 0.8810409,
+                    "scaleY": 0.8333333
                 }
             ]
         },
